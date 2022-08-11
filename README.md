@@ -6,4 +6,3 @@
 
 - 🌱 I’m currently learning data science and software engineering.
 
-- 📫 How to reach me by email at jason_pagan@uml.edu
